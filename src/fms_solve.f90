@@ -2,7 +2,7 @@
 ! fms_solve.f90: A module used to analyze and solve mazes
 !
 ! Created: Friday, February 5, 2016
-! Author: Jessy Williams
+! Author: Jessy Williams (jkwill87)
 ! Contact: jessy@jessywilliams.com
 !!
 

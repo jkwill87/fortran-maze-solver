@@ -2,7 +2,7 @@
 ! fms_types.f90: user defined types for fms
 !
 ! Created: Friday, February 5, 2016
-! Author: Jessy Williams
+! Author: Jessy Williams (jkwill87)
 ! Contact: jessy@jessywilliams.com
 !!
 

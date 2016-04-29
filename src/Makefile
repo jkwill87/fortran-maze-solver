@@ -1,3 +1,8 @@
+# Project: fortran-maze-solber
+# Author: Jessy Williams (jkwill87)
+# Contact: jessy@jessywilliams.com
+# Created: Friday, February 5, 2016
+
 FC = gfortran
 FCFLAGS = -cpp -Wall -O2 -std=f2003
 
